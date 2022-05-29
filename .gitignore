@@ -1,0 +1,10 @@
+*.pub
+*.log
+*.hcl
+*.exe
+# Lab Vagrant
+vagrant/bionic/.vagrant/
+vagrant/bionic/id_bionic
+vagrant/precise/.vagrant/
+# Lab Terraform
+
